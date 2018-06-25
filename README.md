@@ -3,11 +3,11 @@ Spring aop example
 
 Spring AOP is use for do the action on Method.
 Here is a simple example of Spring AOP
-*run*
+#run:
 $ ./gradlew boot run
 
-*example:*
+#example:
 In browser hit the link
 http://localhost:8080/api/aop
 
-check your terminal logs
+Check your terminal logs
